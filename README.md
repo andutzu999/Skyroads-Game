@@ -5,8 +5,6 @@ This game is implemented in C++ and the source code can be found in **Source/Lab
 This can be opened in Visual Studio 2017. You have to open the Visual Studio/Framework_EGC.sln file.
 The plates have more colors which modify the fuel of the player.
 When the ball lands on a plate, that one changes its colour in purple.
-
-
 If the ball hits a plate with the following color:
 
 RED : the game will stop
@@ -18,6 +16,7 @@ GREEN: fuel increasing
 YELLOW: fuel decreasing
 
 ORANGE: the speed of the ball is automatically increasing for a few seconds
+
 
 
 
