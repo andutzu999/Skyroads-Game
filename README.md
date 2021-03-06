@@ -1,7 +1,7 @@
 #                                   *Skyroads*
 
 
-This game is implemented in C++ and the source code can be found in Source/Laboratoare/Tema2. 
+This game is implemented in C++ and the source code can be found in **Source/Laboratoare/Tema2**. 
 This can be opened in Visual Studio 2017. You have to open the Visual Studio/Framework_EGC.sln file.
 The plates have more colors which modify the fuel of the player.
 When the ball lands on a plate, that one changes its colour in purple.
