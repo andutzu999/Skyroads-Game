@@ -6,7 +6,8 @@ This can be opened in Visual Studio 2017. You have to open the Visual Studio/Fra
 The plates have more colors which modify the fuel of the player.
 When the ball lands on a plate, that one changes its colour in purple.
 
-If the ball hits a:
+
+If the ball hits a plate with the following color:
 
 RED : the game will stop
 BLUE: nothing is going to happen
