@@ -22,9 +22,13 @@ ORANGE: the speed of the ball is automatically increasing for a few seconds
 The ball functionalities are various and can be controlled by keyboard:
 
 W : increasing the speed of the ball
+
 S : decreasing the speed of the ball
+
 A : left moving
+
 D : right moving
+
 SPACE: jumping
 
 An image with the game can be found in image.png.
